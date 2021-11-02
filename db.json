@@ -1,0 +1,28 @@
+{
+    "accounts": [
+        {
+            "playerName": "Gill",
+            "VAC": "",
+            "accountCreated": "06/01/2009",
+            "skinsWorth": "400"
+        },
+        {
+            "playerName": "Bob",
+            "VAC": "",
+            "accountCreated": "13/09/2010",
+            "skinsWorth": "15"
+        },
+        {
+            "playerName": "Tom",
+            "VAC": "",
+            "accountCreated": "13/08/2001",
+            "skinsWorth": "1050"
+        },
+        {
+            "playerName": "Peter",
+            "VAC": "08/04/2017",
+            "accountCreated": "06/01/2015",
+            "skinsWorth": "40"
+        }
+    ]
+}
